@@ -1,5 +1,8 @@
 # Morse Code Translator
 
+## Deployed Link
+https://morseencoder.netlify.app/
+
 ## Introduction
 
 This project is a web-based Morse Code Translator that allows users to encode and decode Morse code messages to and from English letters. It features a simple and intuitive user interface for easy interaction with the core functionalities: encoding English text to Morse code, decoding Morse code to English, and copying the encoded or decoded messages to the clipboard.
